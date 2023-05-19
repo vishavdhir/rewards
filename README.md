@@ -29,12 +29,12 @@ e.g. http://localhost:8080/rewards/customers/1004
 -----------------------------------------------------------------------------------------------------------------------------------
 Note - 
 * API supports only java 1.8
-* As requirements did not provide any contract or specifications of the input/output, Simplest input/output objects have been used
+* As requirements did not provide any contract or specifications of the input/output, Simplest input/output objects have been used.
 * As requirements did not specified any validation or error conditions, no validation or error condidtion is handled by this repository.
 * It is assumed, user will always pass a valid customer id. Refer resources/static/transactions.json to get the valid customer Ids for testing.
-* Repository is created only for the demoonstration purpose. Lot of the things are requiring corrections, e.g project structure, input/output objects etc
+* __Repository is created only for the demoonstration purpose. Lot of the things are requiring corrections, e.g project structure, input/output objects, Exception Handling using Global Exception Handler, Sonar Integration etc (I have worked on similar micro app in the real project in past which was developed in multiple JIRA stories)__
 * Repository is using static data embedded as json document.
 * Code is working and tested manually using the static data used for mocking. (Only SANITY Test cases executed). 
 * Will be adding JUnit Test cases at later stage if time permitted.
-* Suggest to check the git commit history to see the approach used in implementation
+* Suggest to check the git commit history to see the approach used in implementation,
 
