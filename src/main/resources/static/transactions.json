@@ -1,0 +1,460 @@
+[
+	{
+	  "customerId" : 1001,
+	  "transactionAmount" : 11.11,
+	  "transactionDate" : "11/14/2022"
+	},
+	{
+	  "customerId" : 1002,
+	  "transactionAmount" : 22.22,
+	  "transactionDate" : "10/14/2022"
+	},
+	{
+	  "customerId" : 1003,
+	  "transactionAmount" : 33.33,
+	  "transactionDate" : "11/14/2022"
+	},
+	{
+	  "customerId" : 1004,
+	  "transactionAmount" : 44.44,
+	  "transactionDate" : "10/14/2022"
+	},
+	{
+	  "customerId" : 1005,
+	  "transactionAmount" : 55.55,
+	  "transactionDate" : "11/14/2022"
+	},
+	{
+	  "customerId" : 1006,
+	  "transactionAmount" : 66.66,
+	  "transactionDate" : "10/14/2022"
+	},
+	{
+	  "customerId" : 1007,
+	  "transactionAmount" : 77.77,
+	  "transactionDate" : "10/14/2022"
+	},
+	{
+	  "customerId" : 1008,
+	  "transactionAmount" : 88.88,
+	  "transactionDate" : "11/14/2022"
+	},
+	{
+	  "customerId" : 1009,
+	  "transactionAmount" : 99.99,
+	  "transactionDate" : "10/14/2022"
+	},
+	{
+	  "customerId" : 1010,
+	  "transactionAmount" : 5.5,
+	  "transactionDate" : "11/14/2022"
+	},
+	
+	{
+	  "customerId" : 1001,
+	  "transactionAmount" : 11.11,
+	  "transactionDate" : "11/14/2022"
+	},
+	{
+	  "customerId" : 1002,
+	  "transactionAmount" : 22.22,
+	  "transactionDate" : "10/14/2022"
+	},
+	{
+	  "customerId" : 1003,
+	  "transactionAmount" : 33.33,
+	  "transactionDate" : "11/14/2022"
+	},
+	{
+	  "customerId" : 1004,
+	  "transactionAmount" : 44.44,
+	  "transactionDate" : "10/14/2022"
+	},
+	{
+	  "customerId" : 1005,
+	  "transactionAmount" : 55.55,
+	  "transactionDate" : "11/14/2022"
+	},
+	{
+	  "customerId" : 1006,
+	  "transactionAmount" : 66.66,
+	  "transactionDate" : "10/14/2022"
+	},
+	{
+	  "customerId" : 1007,
+	  "transactionAmount" : 77.77,
+	  "transactionDate" : "10/14/2022"
+	},
+	{
+	  "customerId" : 1008,
+	  "transactionAmount" : 88.88,
+	  "transactionDate" : "11/14/2022"
+	},
+	{
+	  "customerId" : 1009,
+	  "transactionAmount" : 99.99,
+	  "transactionDate" : "10/14/2022"
+	},
+	{
+	  "customerId" : 1010,
+	  "transactionAmount" : 5.5,
+	  "transactionDate" : "11/14/2022"
+	},
+	
+	{
+	  "customerId" : 1001,
+	  "transactionAmount" : 11.11,
+	  "transactionDate" : "11/14/2022"
+	},
+	{
+	  "customerId" : 1002,
+	  "transactionAmount" : 22.22,
+	  "transactionDate" : "10/14/2022"
+	},
+	{
+	  "customerId" : 1003,
+	  "transactionAmount" : 33.33,
+	  "transactionDate" : "11/14/2022"
+	},
+	{
+	  "customerId" : 1004,
+	  "transactionAmount" : 44.44,
+	  "transactionDate" : "10/14/2022"
+	},
+	{
+	  "customerId" : 1005,
+	  "transactionAmount" : 55.55,
+	  "transactionDate" : "11/14/2022"
+	},
+	{
+	  "customerId" : 1006,
+	  "transactionAmount" : 66.66,
+	  "transactionDate" : "10/14/2022"
+	},
+	{
+	  "customerId" : 1007,
+	  "transactionAmount" : 77.77,
+	  "transactionDate" : "10/14/2022"
+	},
+	{
+	  "customerId" : 1008,
+	  "transactionAmount" : 88.88,
+	  "transactionDate" : "11/14/2022"
+	},
+	{
+	  "customerId" : 1009,
+	  "transactionAmount" : 99.99,
+	  "transactionDate" : "10/14/2022"
+	},
+	{
+	  "customerId" : 1010,
+	  "transactionAmount" : 5.5,
+	  "transactionDate" : "11/14/2022"
+	},
+	
+	{
+	  "customerId" : 1001,
+	  "transactionAmount" : 11.11,
+	  "transactionDate" : "11/14/2022"
+	},
+	{
+	  "customerId" : 1002,
+	  "transactionAmount" : 22.22,
+	  "transactionDate" : "10/14/2022"
+	},
+	{
+	  "customerId" : 1003,
+	  "transactionAmount" : 33.33,
+	  "transactionDate" : "11/14/2022"
+	},
+	{
+	  "customerId" : 1004,
+	  "transactionAmount" : 44.44,
+	  "transactionDate" : "10/14/2022"
+	},
+	{
+	  "customerId" : 1005,
+	  "transactionAmount" : 55.55,
+	  "transactionDate" : "11/14/2022"
+	},
+	{
+	  "customerId" : 1006,
+	  "transactionAmount" : 66.66,
+	  "transactionDate" : "10/14/2022"
+	},
+	{
+	  "customerId" : 1007,
+	  "transactionAmount" : 77.77,
+	  "transactionDate" : "10/14/2022"
+	},
+	{
+	  "customerId" : 1008,
+	  "transactionAmount" : 88.88,
+	  "transactionDate" : "11/14/2022"
+	},
+	{
+	  "customerId" : 1009,
+	  "transactionAmount" : 99.99,
+	  "transactionDate" : "10/14/2022"
+	},
+	{
+	  "customerId" : 1010,
+	  "transactionAmount" : 5.5,
+	  "transactionDate" : "11/14/2022"
+	},
+	
+	{
+	  "customerId" : 1001,
+	  "transactionAmount" : 11.11,
+	  "transactionDate" : "11/14/2022"
+	},
+	{
+	  "customerId" : 1002,
+	  "transactionAmount" : 22.22,
+	  "transactionDate" : "10/14/2022"
+	},
+	{
+	  "customerId" : 1003,
+	  "transactionAmount" : 33.33,
+	  "transactionDate" : "11/14/2022"
+	},
+	{
+	  "customerId" : 1004,
+	  "transactionAmount" : 44.44,
+	  "transactionDate" : "10/14/2022"
+	},
+	{
+	  "customerId" : 1005,
+	  "transactionAmount" : 55.55,
+	  "transactionDate" : "11/14/2022"
+	},
+	{
+	  "customerId" : 1006,
+	  "transactionAmount" : 66.66,
+	  "transactionDate" : "10/14/2022"
+	},
+	{
+	  "customerId" : 1007,
+	  "transactionAmount" : 77.77,
+	  "transactionDate" : "10/14/2022"
+	},
+	{
+	  "customerId" : 1008,
+	  "transactionAmount" : 88.88,
+	  "transactionDate" : "11/14/2022"
+	},
+	{
+	  "customerId" : 1009,
+	  "transactionAmount" : 99.99,
+	  "transactionDate" : "10/14/2022"
+	},
+	{
+	  "customerId" : 1010,
+	  "transactionAmount" : 5.5,
+	  "transactionDate" : "11/14/2022"
+	},
+	
+	{
+	  "customerId" : 1001,
+	  "transactionAmount" : 11.11,
+	  "transactionDate" : "11/14/2022"
+	},
+	{
+	  "customerId" : 1002,
+	  "transactionAmount" : 22.22,
+	  "transactionDate" : "10/14/2022"
+	},
+	{
+	  "customerId" : 1003,
+	  "transactionAmount" : 33.33,
+	  "transactionDate" : "11/14/2022"
+	},
+	{
+	  "customerId" : 1004,
+	  "transactionAmount" : 44.44,
+	  "transactionDate" : "10/14/2022"
+	},
+	{
+	  "customerId" : 1005,
+	  "transactionAmount" : 55.55,
+	  "transactionDate" : "11/14/2022"
+	},
+	{
+	  "customerId" : 1006,
+	  "transactionAmount" : 66.66,
+	  "transactionDate" : "10/14/2022"
+	},
+	{
+	  "customerId" : 1007,
+	  "transactionAmount" : 77.77,
+	  "transactionDate" : "10/14/2022"
+	},
+	{
+	  "customerId" : 1008,
+	  "transactionAmount" : 88.88,
+	  "transactionDate" : "11/14/2022"
+	},
+	{
+	  "customerId" : 1009,
+	  "transactionAmount" : 99.99,
+	  "transactionDate" : "10/14/2022"
+	},
+	{
+	  "customerId" : 1010,
+	  "transactionAmount" : 5.5,
+	  "transactionDate" : "11/14/2022"
+	},
+	
+	{
+	  "customerId" : 1001,
+	  "transactionAmount" : 11.11,
+	  "transactionDate" : "11/14/2022"
+	},
+	{
+	  "customerId" : 1002,
+	  "transactionAmount" : 22.22,
+	  "transactionDate" : "10/14/2022"
+	},
+	{
+	  "customerId" : 1003,
+	  "transactionAmount" : 33.33,
+	  "transactionDate" : "11/14/2022"
+	},
+	{
+	  "customerId" : 1004,
+	  "transactionAmount" : 44.44,
+	  "transactionDate" : "10/14/2022"
+	},
+	{
+	  "customerId" : 1005,
+	  "transactionAmount" : 55.55,
+	  "transactionDate" : "11/14/2022"
+	},
+	{
+	  "customerId" : 1006,
+	  "transactionAmount" : 66.66,
+	  "transactionDate" : "10/14/2022"
+	},
+	{
+	  "customerId" : 1007,
+	  "transactionAmount" : 77.77,
+	  "transactionDate" : "10/14/2022"
+	},
+	{
+	  "customerId" : 1008,
+	  "transactionAmount" : 88.88,
+	  "transactionDate" : "11/14/2022"
+	},
+	{
+	  "customerId" : 1009,
+	  "transactionAmount" : 99.99,
+	  "transactionDate" : "10/14/2022"
+	},
+	{
+	  "customerId" : 1010,
+	  "transactionAmount" : 5.5,
+	  "transactionDate" : "11/14/2022"
+	},
+	
+	{
+	  "customerId" : 1001,
+	  "transactionAmount" : 11.11,
+	  "transactionDate" : "11/14/2022"
+	},
+	{
+	  "customerId" : 1002,
+	  "transactionAmount" : 22.22,
+	  "transactionDate" : "10/14/2022"
+	},
+	{
+	  "customerId" : 1003,
+	  "transactionAmount" : 33.33,
+	  "transactionDate" : "11/14/2022"
+	},
+	{
+	  "customerId" : 1004,
+	  "transactionAmount" : 44.44,
+	  "transactionDate" : "10/14/2022"
+	},
+	{
+	  "customerId" : 1005,
+	  "transactionAmount" : 55.55,
+	  "transactionDate" : "11/14/2022"
+	},
+	{
+	  "customerId" : 1006,
+	  "transactionAmount" : 66.66,
+	  "transactionDate" : "10/14/2022"
+	},
+	{
+	  "customerId" : 1007,
+	  "transactionAmount" : 77.77,
+	  "transactionDate" : "10/14/2022"
+	},
+	{
+	  "customerId" : 1008,
+	  "transactionAmount" : 88.88,
+	  "transactionDate" : "11/14/2022"
+	},
+	{
+	  "customerId" : 1009,
+	  "transactionAmount" : 99.99,
+	  "transactionDate" : "10/14/2022"
+	},
+	{
+	  "customerId" : 1010,
+	  "transactionAmount" : 5.5,
+	  "transactionDate" : "11/14/2022"
+	},
+	
+	{
+	  "customerId" : 1001,
+	  "transactionAmount" : 11.11,
+	  "transactionDate" : "11/14/2022"
+	},
+	{
+	  "customerId" : 1002,
+	  "transactionAmount" : 22.22,
+	  "transactionDate" : "10/14/2022"
+	},
+	{
+	  "customerId" : 1003,
+	  "transactionAmount" : 33.33,
+	  "transactionDate" : "11/14/2022"
+	},
+	{
+	  "customerId" : 1004,
+	  "transactionAmount" : 44.44,
+	  "transactionDate" : "10/14/2022"
+	},
+	{
+	  "customerId" : 1005,
+	  "transactionAmount" : 55.55,
+	  "transactionDate" : "11/14/2022"
+	},
+	{
+	  "customerId" : 1006,
+	  "transactionAmount" : 66.66,
+	  "transactionDate" : "10/14/2022"
+	},
+	{
+	  "customerId" : 1007,
+	  "transactionAmount" : 77.77,
+	  "transactionDate" : "10/14/2022"
+	},
+	{
+	  "customerId" : 1008,
+	  "transactionAmount" : 88.88,
+	  "transactionDate" : "11/14/2022"
+	},
+	{
+	  "customerId" : 1009,
+	  "transactionAmount" : 99.99,
+	  "transactionDate" : "10/14/2022"
+	},
+	{
+	  "customerId" : 1010,
+	  "transactionAmount" : 5.5,
+	  "transactionDate" : "11/14/2022"
+	}
+]
