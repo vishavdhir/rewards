@@ -1,0 +1,460 @@
+[
+	{
+	  "customerId" : 1001,
+	  "transactionAmount" : 111.11,
+	  "transactionDate" : "04/18/2023"
+	},
+	{
+	  "customerId" : 1002,
+	  "transactionAmount" : 22.22,
+	  "transactionDate" : "04/18/2023"
+	},
+	{
+	  "customerId" : 1003,
+	  "transactionAmount" : 33.33,
+	  "transactionDate" : "04/18/2023"
+	},
+	{
+	  "customerId" : 1004,
+	  "transactionAmount" : 44.44,
+	  "transactionDate" : "04/18/2023"
+	},
+	{
+	  "customerId" : 1005,
+	  "transactionAmount" : 55.55,
+	  "transactionDate" : "04/18/2023"
+	},
+	{
+	  "customerId" : 1006,
+	  "transactionAmount" : 66.66,
+	  "transactionDate" : "04/18/2023"
+	},
+	{
+	  "customerId" : 1007,
+	  "transactionAmount" : 77.77,
+	  "transactionDate" : "04/18/2023"
+	},
+	{
+	  "customerId" : 1008,
+	  "transactionAmount" : 88.88,
+	  "transactionDate" : "04/18/2023"
+	},
+	{
+	  "customerId" : 1009,
+	  "transactionAmount" : 99.99,
+	  "transactionDate" : "04/18/2023"
+	},
+	{
+	  "customerId" : 1010,
+	  "transactionAmount" : 5.5,
+	  "transactionDate" : "04/18/2023"
+	},
+	
+	{
+	  "customerId" : 1001,
+	  "transactionAmount" : 111.11,
+	  "transactionDate" : "04/23/2023"
+	},
+	{
+	  "customerId" : 1002,
+	  "transactionAmount" : 22.22,
+	  "transactionDate" : "04/23/2023"
+	},
+	{
+	  "customerId" : 1003,
+	  "transactionAmount" : 333.33,
+	  "transactionDate" : "04/23/2023"
+	},
+	{
+	  "customerId" : 1004,
+	  "transactionAmount" : 440.44,
+	  "transactionDate" : "04/23/2023"
+	},
+	{
+	  "customerId" : 1005,
+	  "transactionAmount" : 55.55,
+	  "transactionDate" : "04/23/2023"
+	},
+	{
+	  "customerId" : 1006,
+	  "transactionAmount" : 66.66,
+	  "transactionDate" : "04/23/2023"
+	},
+	{
+	  "customerId" : 1007,
+	  "transactionAmount" : 77.77,
+	  "transactionDate" : "04/23/2023"
+	},
+	{
+	  "customerId" : 1008,
+	  "transactionAmount" : 88.88,
+	  "transactionDate" : "04/23/2023"
+	},
+	{
+	  "customerId" : 1009,
+	  "transactionAmount" : 99.99,
+	  "transactionDate" : "04/23/2023"
+	},
+	{
+	  "customerId" : 1010,
+	  "transactionAmount" : 5.5,
+	  "transactionDate" : "04/23/2023"
+	},
+	
+	{
+	  "customerId" : 1001,
+	  "transactionAmount" : 111.11,
+	  "transactionDate" : "04/28/2023"
+	},
+	{
+	  "customerId" : 1002,
+	  "transactionAmount" : 222.22,
+	  "transactionDate" : "04/28/2023"
+	},
+	{
+	  "customerId" : 1003,
+	  "transactionAmount" : 33.33,
+	  "transactionDate" : "04/28/2023"
+	},
+	{
+	  "customerId" : 1004,
+	  "transactionAmount" : 44.44,
+	  "transactionDate" : "04/28/2023"
+	},
+	{
+	  "customerId" : 1005,
+	  "transactionAmount" : 55.55,
+	  "transactionDate" : "04/28/2023"
+	},
+	{
+	  "customerId" : 1006,
+	  "transactionAmount" : 66.66,
+	  "transactionDate" : "04/28/2023"
+	},
+	{
+	  "customerId" : 1007,
+	  "transactionAmount" : 77.77,
+	  "transactionDate" : "04/28/2023"
+	},
+	{
+	  "customerId" : 1008,
+	  "transactionAmount" : 88.88,
+	  "transactionDate" : "04/28/2023"
+	},
+	{
+	  "customerId" : 1009,
+	  "transactionAmount" : 99.99,
+	  "transactionDate" : "04/28/2023"
+	},
+	{
+	  "customerId" : 1010,
+	  "transactionAmount" : 5.5,
+	  "transactionDate" : "04/28/2023"
+	},
+	
+	{
+	  "customerId" : 1001,
+	  "transactionAmount" : 111.11,
+	  "transactionDate" : "03/13/2023"
+	},
+	{
+	  "customerId" : 1002,
+	  "transactionAmount" : 222.22,
+	  "transactionDate" : "03/13/2023"
+	},
+	{
+	  "customerId" : 1003,
+	  "transactionAmount" : 333.33,
+	  "transactionDate" : "03/13/2023"
+	},
+	{
+	  "customerId" : 1004,
+	  "transactionAmount" : 440.44,
+	  "transactionDate" : "03/13/2023"
+	},
+	{
+	  "customerId" : 1005,
+	  "transactionAmount" : 55.55,
+	  "transactionDate" : "03/13/2023"
+	},
+	{
+	  "customerId" : 1006,
+	  "transactionAmount" : 66.66,
+	  "transactionDate" : "03/13/2023"
+	},
+	{
+	  "customerId" : 1007,
+	  "transactionAmount" : 77.77,
+	  "transactionDate" : "03/13/2023"
+	},
+	{
+	  "customerId" : 1008,
+	  "transactionAmount" : 88.88,
+	  "transactionDate" : "03/13/2023"
+	},
+	{
+	  "customerId" : 1009,
+	  "transactionAmount" : 99.99,
+	  "transactionDate" : "03/13/2023"
+	},
+	{
+	  "customerId" : 1010,
+	  "transactionAmount" : 5.5,
+	  "transactionDate" : "03/13/2023"
+	},
+	
+	{
+	  "customerId" : 1001,
+	  "transactionAmount" : 111.11,
+	  "transactionDate" : "03/15/2023"
+	},
+	{
+	  "customerId" : 1002,
+	  "transactionAmount" : 222.22,
+	  "transactionDate" : "03/15/2023"
+	},
+	{
+	  "customerId" : 1003,
+	  "transactionAmount" : 33.33,
+	  "transactionDate" : "03/15/2023"
+	},
+	{
+	  "customerId" : 1004,
+	  "transactionAmount" : 44.44,
+	  "transactionDate" : "03/15/2023"
+	},
+	{
+	  "customerId" : 1005,
+	  "transactionAmount" : 55.55,
+	  "transactionDate" : "03/15/2023"
+	},
+	{
+	  "customerId" : 1006,
+	  "transactionAmount" : 66.66,
+	  "transactionDate" : "03/15/2023"
+	},
+	{
+	  "customerId" : 1007,
+	  "transactionAmount" : 77.77,
+	  "transactionDate" : "03/15/2023"
+	},
+	{
+	  "customerId" : 1008,
+	  "transactionAmount" : 88.88,
+	  "transactionDate" : "03/15/2023"
+	},
+	{
+	  "customerId" : 1009,
+	  "transactionAmount" : 99.99,
+	  "transactionDate" : "03/15/2023"
+	},
+	{
+	  "customerId" : 1010,
+	  "transactionAmount" : 5.5,
+	  "transactionDate" : "03/15/2023"
+	},
+	
+	{
+	  "customerId" : 1001,
+	  "transactionAmount" : 111.11,
+	  "transactionDate" : "03/18/2023"
+	},
+	{
+	  "customerId" : 1002,
+	  "transactionAmount" : 222.22,
+	  "transactionDate" : "03/18/2023"
+	},
+	{
+	  "customerId" : 1003,
+	  "transactionAmount" : 33.33,
+	  "transactionDate" : "03/18/2023"
+	},
+	{
+	  "customerId" : 1004,
+	  "transactionAmount" : 44.44,
+	  "transactionDate" : "03/18/2023"
+	},
+	{
+	  "customerId" : 1005,
+	  "transactionAmount" : 55.55,
+	  "transactionDate" : "03/18/2023"
+	},
+	{
+	  "customerId" : 1006,
+	  "transactionAmount" : 66.66,
+	  "transactionDate" : "03/18/2023"
+	},
+	{
+	  "customerId" : 1007,
+	  "transactionAmount" : 77.77,
+	  "transactionDate" : "03/18/2023"
+	},
+	{
+	  "customerId" : 1008,
+	  "transactionAmount" : 88.88,
+	  "transactionDate" : "03/18/2023"
+	},
+	{
+	  "customerId" : 1009,
+	  "transactionAmount" : 99.99,
+	  "transactionDate" : "03/18/2023"
+	},
+	{
+	  "customerId" : 1010,
+	  "transactionAmount" : 5.5,
+	  "transactionDate" : "03/18/2023"
+	},
+	
+	{
+	  "customerId" : 1001,
+	  "transactionAmount" : 111.11,
+	  "transactionDate" : "02/14/2023"
+	},
+	{
+	  "customerId" : 1002,
+	  "transactionAmount" : 222.22,
+	  "transactionDate" : "02/14/2023"
+	},
+	{
+	  "customerId" : 1003,
+	  "transactionAmount" : 33.33,
+	  "transactionDate" : "02/14/2023"
+	},
+	{
+	  "customerId" : 1004,
+	  "transactionAmount" : 44.44,
+	  "transactionDate" : "02/14/2023"
+	},
+	{
+	  "customerId" : 1005,
+	  "transactionAmount" : 55.55,
+	  "transactionDate" : "02/14/2023"
+	},
+	{
+	  "customerId" : 1006,
+	  "transactionAmount" : 66.66,
+	  "transactionDate" : "02/14/2023"
+	},
+	{
+	  "customerId" : 1007,
+	  "transactionAmount" : 77.77,
+	  "transactionDate" : "02/14/2023"
+	},
+	{
+	  "customerId" : 1008,
+	  "transactionAmount" : 88.88,
+	  "transactionDate" : "02/14/2023"
+	},
+	{
+	  "customerId" : 1009,
+	  "transactionAmount" : 99.99,
+	  "transactionDate" : "02/14/2023"
+	},
+	{
+	  "customerId" : 1010,
+	  "transactionAmount" : 5.5,
+	  "transactionDate" : "02/14/2023"
+	},
+	
+	{
+	  "customerId" : 1001,
+	  "transactionAmount" : 111.11,
+	  "transactionDate" : "02/20/2023"
+	},
+	{
+	  "customerId" : 1002,
+	  "transactionAmount" : 22.22,
+	  "transactionDate" : "02/20/2023"
+	},
+	{
+	  "customerId" : 1003,
+	  "transactionAmount" : 33.33,
+	  "transactionDate" : "02/20/2023"
+	},
+	{
+	  "customerId" : 1004,
+	  "transactionAmount" : 44.44,
+	  "transactionDate" : "02/20/2023"
+	},
+	{
+	  "customerId" : 1005,
+	  "transactionAmount" : 55.55,
+	  "transactionDate" : "02/20/2023"
+	},
+	{
+	  "customerId" : 1006,
+	  "transactionAmount" : 66.66,
+	  "transactionDate" : "02/20/2023"
+	},
+	{
+	  "customerId" : 1007,
+	  "transactionAmount" : 77.77,
+	  "transactionDate" : "02/20/2023"
+	},
+	{
+	  "customerId" : 1008,
+	  "transactionAmount" : 88.88,
+	  "transactionDate" : "02/20/2023"
+	},
+	{
+	  "customerId" : 1009,
+	  "transactionAmount" : 99.99,
+	  "transactionDate" : "02/20/2023"
+	},
+	{
+	  "customerId" : 1010,
+	  "transactionAmount" : 5.5,
+	  "transactionDate" : "02/20/2023"
+	},
+	
+	{
+	  "customerId" : 1001,
+	  "transactionAmount" : 111.11,
+	  "transactionDate" : "02/25/2023"
+	},
+	{
+	  "customerId" : 1002,
+	  "transactionAmount" : 222.22,
+	  "transactionDate" : "02/25/2023"
+	},
+	{
+	  "customerId" : 1003,
+	  "transactionAmount" : 33.33,
+	  "transactionDate" : "02/25/2023"
+	},
+	{
+	  "customerId" : 1004,
+	  "transactionAmount" : 44.44,
+	  "transactionDate" : "02/25/2023"
+	},
+	{
+	  "customerId" : 1005,
+	  "transactionAmount" : 55.55,
+	  "transactionDate" : "02/25/2023"
+	},
+	{
+	  "customerId" : 1006,
+	  "transactionAmount" : 66.66,
+	  "transactionDate" : "02/25/2023"
+	},
+	{
+	  "customerId" : 1007,
+	  "transactionAmount" : 77.77,
+	  "transactionDate" : "02/25/2023"
+	},
+	{
+	  "customerId" : 1008,
+	  "transactionAmount" : 88.88,
+	  "transactionDate" : "02/25/2023"
+	},
+	{
+	  "customerId" : 1009,
+	  "transactionAmount" : 99.99,
+	  "transactionDate" : "02/25/2023"
+	},
+	{
+	  "customerId" : 1010,
+	  "transactionAmount" : 5.5,
+	  "transactionDate" : "02/25/2023"
+	}
+]
