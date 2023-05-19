@@ -34,5 +34,6 @@ Note -
 * It is assumed, user will always pass a valid customer id. Refer resources/static/transactions.json to get the valid customer Ids for testing.
 * Repository is created only for the demoonstration purpose. Lot of the things are requiring corrections, e.g project structure, input/output objects etc
 * Repository is using static data embedded as json document.
-
+* Code is working and tested manually using the static data used for mocking. (Only SANITY Test cases executed). 
+* Will be adding JUnit Test cases at later stage if time permitted.
 
